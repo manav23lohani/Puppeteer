@@ -11,10 +11,10 @@ const links = [...Array(3).keys()];
     concurrency: Cluster.CONCURRENCY_PAGE,
     maxConcurrency: 10,
   });
-
+  let users=[];
   await cluster.task(async ({ page, data: url }) => {
-    await page.goto(url);
-    const users = await page.evaluate(() =>
+    await page.goto(url, { waitUntil: "networkidle2" });
+    const pageUsers = await page.evaluate(() =>
       Array.from(document.querySelectorAll("tbody tr"), (e) => ({
         rank: e.querySelector("td:nth-child(1)").innerText,
         name: e.querySelector("td:nth-child(2)").innerText.trim(),
@@ -24,13 +24,21 @@ const links = [...Array(3).keys()];
     );
 
     // store in json file
-    console.log(users);
+    users.push(...pageUsers);
   });
 
   // queue all links to cluster that are to be fetched
   for (let link of links){
      await cluster.queue(`https://leetcode.com/contest/${contest}/ranking/${link+1}/`);
   }
-  await cluster.idle();
-  await cluster.close();
+await cluster.idle();
+await cluster.close();
+
+// convert the users data to JSON
+const json = JSON.stringify(users);
+
+// write the JSON data to a file
+fs.writeFileSync("usersData.json", json);
+console.log("Users data saved to users.json file");
+
 })();
