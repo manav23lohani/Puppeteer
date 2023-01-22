@@ -1,4 +1,54 @@
 [
+  { "rank": "1", "name": "Yawn_Sean", "score": "18", "finishTime": "0:13:49" },
+  {
+    "rank": "2",
+    "name": "0suoicsnocbus",
+    "score": "18",
+    "finishTime": "0:14:34"
+  },
+  { "rank": "3", "name": "dnialh", "score": "18", "finishTime": "0:14:51" },
+  { "rank": "4", "name": "DylanSmith", "score": "18", "finishTime": "0:15:04" },
+  {
+    "rank": "5",
+    "name": "penguinhacker",
+    "score": "18",
+    "finishTime": "0:15:24"
+  },
+  { "rank": "6", "name": "nyu_ldf", "score": "18", "finishTime": "0:16:39" },
+  { "rank": "7", "name": "xh286286", "score": "18", "finishTime": "0:16:50" },
+  { "rank": "8", "name": "qeetcode", "score": "18", "finishTime": "0:18:52" },
+  { "rank": "9", "name": "Tlatoani", "score": "18", "finishTime": "0:18:58" },
+  { "rank": "10", "name": "arignote", "score": "18", "finishTime": "0:20:11" },
+  {
+    "rank": "11",
+    "name": "tonghuikang",
+    "score": "18",
+    "finishTime": "0:20:53"
+  },
+  { "rank": "12", "name": "robezh765", "score": "18", "finishTime": "0:21:14" },
+  { "rank": "13", "name": "panyuchao", "score": "18", "finishTime": "0:21:30" },
+  { "rank": "14", "name": "jinmingli", "score": "18", "finishTime": "0:21:56" },
+  { "rank": "15", "name": "sayakaFan", "score": "18", "finishTime": "0:22:50" },
+  { "rank": "16", "name": "natsugiri", "score": "18", "finishTime": "0:23:18" },
+  { "rank": "17", "name": "Heltion", "score": "18", "finishTime": "0:24:03" },
+  { "rank": "18", "name": "NK-", "score": "18", "finishTime": "0:24:21" },
+  { "rank": "19", "name": "ji-gong", "score": "18", "finishTime": "0:25:40" },
+  { "rank": "20", "name": "megurine", "score": "18", "finishTime": "0:26:32" },
+  { "rank": "21", "name": "sdcgvhgj", "score": "18", "finishTime": "0:26:58" },
+  { "rank": "22", "name": "plevande", "score": "18", "finishTime": "0:27:06" },
+  { "rank": "23", "name": "ethanrao", "score": "18", "finishTime": "0:27:18" },
+  {
+    "rank": "24",
+    "name": "dacdodinh99",
+    "score": "18",
+    "finishTime": "0:27:45"
+  },
+  {
+    "rank": "25",
+    "name": "PurpleCrayon",
+    "score": "18",
+    "finishTime": "0:28:31"
+  },
   { "rank": "26", "name": "lympanda", "score": "18", "finishTime": "0:28:41" },
   {
     "rank": "27",
@@ -59,56 +109,6 @@
     "finishTime": "0:34:17"
   },
   { "rank": "50", "name": "Chap_", "score": "18", "finishTime": "0:34:17" },
-  { "rank": "1", "name": "Yawn_Sean", "score": "18", "finishTime": "0:13:49" },
-  {
-    "rank": "2",
-    "name": "0suoicsnocbus",
-    "score": "18",
-    "finishTime": "0:14:34"
-  },
-  { "rank": "3", "name": "dnialh", "score": "18", "finishTime": "0:14:51" },
-  { "rank": "4", "name": "DylanSmith", "score": "18", "finishTime": "0:15:04" },
-  {
-    "rank": "5",
-    "name": "penguinhacker",
-    "score": "18",
-    "finishTime": "0:15:24"
-  },
-  { "rank": "6", "name": "nyu_ldf", "score": "18", "finishTime": "0:16:39" },
-  { "rank": "7", "name": "xh286286", "score": "18", "finishTime": "0:16:50" },
-  { "rank": "8", "name": "qeetcode", "score": "18", "finishTime": "0:18:52" },
-  { "rank": "9", "name": "Tlatoani", "score": "18", "finishTime": "0:18:58" },
-  { "rank": "10", "name": "arignote", "score": "18", "finishTime": "0:20:11" },
-  {
-    "rank": "11",
-    "name": "tonghuikang",
-    "score": "18",
-    "finishTime": "0:20:53"
-  },
-  { "rank": "12", "name": "robezh765", "score": "18", "finishTime": "0:21:14" },
-  { "rank": "13", "name": "panyuchao", "score": "18", "finishTime": "0:21:30" },
-  { "rank": "14", "name": "jinmingli", "score": "18", "finishTime": "0:21:56" },
-  { "rank": "15", "name": "sayakaFan", "score": "18", "finishTime": "0:22:50" },
-  { "rank": "16", "name": "natsugiri", "score": "18", "finishTime": "0:23:18" },
-  { "rank": "17", "name": "Heltion", "score": "18", "finishTime": "0:24:03" },
-  { "rank": "18", "name": "NK-", "score": "18", "finishTime": "0:24:21" },
-  { "rank": "19", "name": "ji-gong", "score": "18", "finishTime": "0:25:40" },
-  { "rank": "20", "name": "megurine", "score": "18", "finishTime": "0:26:32" },
-  { "rank": "21", "name": "sdcgvhgj", "score": "18", "finishTime": "0:26:58" },
-  { "rank": "22", "name": "plevande", "score": "18", "finishTime": "0:27:06" },
-  { "rank": "23", "name": "ethanrao", "score": "18", "finishTime": "0:27:18" },
-  {
-    "rank": "24",
-    "name": "dacdodinh99",
-    "score": "18",
-    "finishTime": "0:27:45"
-  },
-  {
-    "rank": "25",
-    "name": "PurpleCrayon",
-    "score": "18",
-    "finishTime": "0:28:31"
-  },
   { "rank": "51", "name": "mmmyq", "score": "18", "finishTime": "0:34:22" },
   { "rank": "52", "name": "anil9717", "score": "18", "finishTime": "0:34:41" },
   { "rank": "53", "name": "ASAPIN", "score": "18", "finishTime": "0:35:27" },
@@ -188,5 +188,565 @@
     "name": "er-fen-zhi-yi-r",
     "score": "18",
     "finishTime": "0:40:14"
-  }
+  },
+  { "rank": "76", "name": "meyi", "score": "18", "finishTime": "0:40:15" },
+  { "rank": "77", "name": "xiaowuc1", "score": "18", "finishTime": "0:40:30" },
+  { "rank": "78", "name": "sw2000", "score": "18", "finishTime": "0:40:31" },
+  { "rank": "79", "name": "ankan2526", "score": "18", "finishTime": "0:40:34" },
+  { "rank": "80", "name": "simpleson", "score": "18", "finishTime": "0:40:43" },
+  {
+    "rank": "81",
+    "name": "abhinash_giri",
+    "score": "18",
+    "finishTime": "0:41:06"
+  },
+  { "rank": "82", "name": "eastar77", "score": "18", "finishTime": "0:41:16" },
+  { "rank": "83", "name": "plus2047", "score": "18", "finishTime": "0:41:27" },
+  {
+    "rank": "84",
+    "name": "remember_it",
+    "score": "18",
+    "finishTime": "0:41:52"
+  },
+  { "rank": "85", "name": "xbr", "score": "18", "finishTime": "0:41:53" },
+  { "rank": "86", "name": "JeffreyLC", "score": "18", "finishTime": "0:42:04" },
+  { "rank": "87", "name": "scboy", "score": "18", "finishTime": "0:42:34" },
+  {
+    "rank": "88",
+    "name": "zhenfisher",
+    "score": "18",
+    "finishTime": "0:42:47"
+  },
+  { "rank": "89", "name": "Henry_cc", "score": "18", "finishTime": "0:43:09" },
+  { "rank": "90", "name": "wnjxyk", "score": "18", "finishTime": "0:43:09" },
+  { "rank": "91", "name": "HideN2000", "score": "18", "finishTime": "0:44:09" },
+  { "rank": "92", "name": "asiad", "score": "18", "finishTime": "0:44:10" },
+  {
+    "rank": "93",
+    "name": "ha-ha-ha-wo-hao-kuai-le-a",
+    "score": "18",
+    "finishTime": "0:44:16"
+  },
+  {
+    "rank": "94",
+    "name": "y0g38h_kum4r",
+    "score": "18",
+    "finishTime": "0:44:24"
+  },
+  { "rank": "95", "name": "zhzho", "score": "18", "finishTime": "0:44:45" },
+  { "rank": "96", "name": "zcgzcgzcg", "score": "18", "finishTime": "0:44:53" },
+  { "rank": "97", "name": "c8kbf", "score": "18", "finishTime": "0:44:57" },
+  { "rank": "98", "name": "shawnxi", "score": "18", "finishTime": "0:45:11" },
+  {
+    "rank": "99",
+    "name": "keen-brattainrwe",
+    "score": "18",
+    "finishTime": "0:45:12"
+  },
+  { "rank": "100", "name": "3000dust", "score": "18", "finishTime": "0:45:17" },
+  { "rank": "101", "name": "myltzqy", "score": "18", "finishTime": "0:45:30" },
+  { "rank": "102", "name": "thuczh", "score": "18", "finishTime": "0:45:35" },
+  { "rank": "103", "name": "knarf", "score": "18", "finishTime": "0:45:43" },
+  { "rank": "104", "name": "EmKjp", "score": "18", "finishTime": "0:45:56" },
+  { "rank": "105", "name": "pauldb89", "score": "18", "finishTime": "0:46:12" },
+  { "rank": "106", "name": "zrts", "score": "18", "finishTime": "0:46:25" },
+  { "rank": "107", "name": "hum", "score": "18", "finishTime": "0:46:27" },
+  { "rank": "108", "name": "isuda", "score": "18", "finishTime": "0:46:35" },
+  { "rank": "109", "name": "VarunR", "score": "18", "finishTime": "0:46:45" },
+  {
+    "rank": "110",
+    "name": "chang-jie-chang",
+    "score": "18",
+    "finishTime": "0:46:48"
+  },
+  { "rank": "111", "name": "zwling", "score": "18", "finishTime": "0:46:50" },
+  {
+    "rank": "112",
+    "name": "xi-jun-xiao-zi",
+    "score": "18",
+    "finishTime": "0:46:50"
+  },
+  {
+    "rank": "113",
+    "name": "galencolin",
+    "score": "18",
+    "finishTime": "0:46:58"
+  },
+  { "rank": "114", "name": "PiscesCh", "score": "18", "finishTime": "0:47:14" },
+  {
+    "rank": "115",
+    "name": "megaspazz",
+    "score": "18",
+    "finishTime": "0:47:14"
+  },
+  { "rank": "116", "name": "kzyKT", "score": "18", "finishTime": "0:47:14" },
+  {
+    "rank": "117",
+    "name": "Fried_Potato",
+    "score": "18",
+    "finishTime": "0:47:32"
+  },
+  { "rank": "118", "name": "loodv002", "score": "18", "finishTime": "0:47:34" },
+  { "rank": "119", "name": "dreamoon", "score": "18", "finishTime": "0:47:37" },
+  { "rank": "120", "name": "Garid", "score": "18", "finishTime": "0:47:41" },
+  {
+    "rank": "121",
+    "name": "adityakumar09092021",
+    "score": "18",
+    "finishTime": "0:48:02"
+  },
+  { "rank": "122", "name": "jdeptct", "score": "18", "finishTime": "0:48:04" },
+  {
+    "rank": "123",
+    "name": "socrates1232",
+    "score": "18",
+    "finishTime": "0:48:14"
+  },
+  {
+    "rank": "124",
+    "name": "cuiwanyun",
+    "score": "18",
+    "finishTime": "0:48:31"
+  },
+  {
+    "rank": "125",
+    "name": "424479543",
+    "score": "18",
+    "finishTime": "0:48:39"
+  },
+  { "rank": "126", "name": "grby", "score": "18", "finishTime": "0:48:55" },
+  { "rank": "127", "name": "cksp", "score": "18", "finishTime": "0:48:58" },
+  {
+    "rank": "128",
+    "name": "hughstudy-n",
+    "score": "18",
+    "finishTime": "0:49:00"
+  },
+  { "rank": "129", "name": "_dc", "score": "18", "finishTime": "0:49:02" },
+  { "rank": "130", "name": "AlphaS", "score": "18", "finishTime": "0:49:28" },
+  {
+    "rank": "131",
+    "name": "Backl1ght",
+    "score": "18",
+    "finishTime": "0:49:36"
+  },
+  {
+    "rank": "132",
+    "name": "singh_deopa",
+    "score": "18",
+    "finishTime": "0:49:42"
+  },
+  {
+    "rank": "133",
+    "name": "Marmaduke",
+    "score": "18",
+    "finishTime": "0:49:45"
+  },
+  {
+    "rank": "134",
+    "name": "liouzhou_101",
+    "score": "18",
+    "finishTime": "0:49:50"
+  },
+  {
+    "rank": "135",
+    "name": "whr321123",
+    "score": "18",
+    "finishTime": "0:49:54"
+  },
+  {
+    "rank": "136",
+    "name": "merlininice",
+    "score": "18",
+    "finishTime": "0:49:55"
+  },
+  { "rank": "137", "name": "Maristie", "score": "18", "finishTime": "0:50:07" },
+  {
+    "rank": "138",
+    "name": "SBofGaySchool",
+    "score": "18",
+    "finishTime": "0:50:09"
+  },
+  {
+    "rank": "139",
+    "name": "KyouMoKawaii",
+    "score": "18",
+    "finishTime": "0:50:12"
+  },
+  { "rank": "140", "name": "harttle", "score": "18", "finishTime": "0:50:12" },
+  { "rank": "141", "name": "v7fgg", "score": "18", "finishTime": "0:50:14" },
+  {
+    "rank": "142",
+    "name": "lovelydays95",
+    "score": "18",
+    "finishTime": "0:50:14"
+  },
+  {
+    "rank": "143",
+    "name": "v5qYY4Q65w",
+    "score": "18",
+    "finishTime": "0:50:14"
+  },
+  { "rank": "144", "name": "ddch-8", "score": "18", "finishTime": "0:50:23" },
+  { "rank": "145", "name": "owen2", "score": "18", "finishTime": "0:50:25" },
+  { "rank": "146", "name": "cai_lw", "score": "18", "finishTime": "0:50:26" },
+  {
+    "rank": "147",
+    "name": "andyzhaoxs",
+    "score": "18",
+    "finishTime": "0:50:34"
+  },
+  {
+    "rank": "148",
+    "name": "charlotte_xar",
+    "score": "18",
+    "finishTime": "0:50:38"
+  },
+  {
+    "rank": "149",
+    "name": "NEU20133823",
+    "score": "18",
+    "finishTime": "0:50:46"
+  },
+  {
+    "rank": "150",
+    "name": "nocturne_",
+    "score": "18",
+    "finishTime": "0:50:52"
+  },
+  {
+    "rank": "151",
+    "name": "yu-hua-shi-w",
+    "score": "18",
+    "finishTime": "0:51:00"
+  },
+  {
+    "rank": "152",
+    "name": "charming-almeidafsz",
+    "score": "18",
+    "finishTime": "0:51:13"
+  },
+  { "rank": "153", "name": "SsssD", "score": "18", "finishTime": "0:51:13" },
+  {
+    "rank": "154",
+    "name": "SAIF_IIT-JU",
+    "score": "18",
+    "finishTime": "0:51:23"
+  },
+  { "rank": "155", "name": "OTTFF", "score": "18", "finishTime": "0:51:29" },
+  { "rank": "156", "name": "tmoux", "score": "18", "finishTime": "0:51:30" },
+  { "rank": "157", "name": "Wilsano", "score": "18", "finishTime": "0:51:33" },
+  { "rank": "158", "name": "cyzh", "score": "18", "finishTime": "0:51:38" },
+  { "rank": "159", "name": "XKTZ", "score": "18", "finishTime": "0:51:39" },
+  { "rank": "160", "name": "Satj", "score": "18", "finishTime": "0:51:49" },
+  {
+    "rank": "161",
+    "name": "mopriestt",
+    "score": "18",
+    "finishTime": "0:51:56"
+  },
+  { "rank": "162", "name": "ExRoc", "score": "18", "finishTime": "0:52:17" },
+  {
+    "rank": "163",
+    "name": "KimTaeyeon",
+    "score": "18",
+    "finishTime": "0:52:21"
+  },
+  {
+    "rank": "164",
+    "name": "balakrishnan_v",
+    "score": "18",
+    "finishTime": "0:52:32"
+  },
+  {
+    "rank": "165",
+    "name": "user2001MS",
+    "score": "18",
+    "finishTime": "0:52:34"
+  },
+  {
+    "rank": "166",
+    "name": "igorlifar",
+    "score": "18",
+    "finishTime": "0:52:44"
+  },
+  {
+    "rank": "167",
+    "name": "user3517H",
+    "score": "18",
+    "finishTime": "0:52:52"
+  },
+  {
+    "rank": "168",
+    "name": "shuoxuanli",
+    "score": "18",
+    "finishTime": "0:53:06"
+  },
+  { "rank": "169", "name": "RealFan", "score": "18", "finishTime": "0:53:16" },
+  { "rank": "170", "name": "lsk-bf", "score": "18", "finishTime": "0:53:19" },
+  { "rank": "171", "name": "wxy9018", "score": "18", "finishTime": "0:53:21" },
+  { "rank": "172", "name": "duconnor", "score": "18", "finishTime": "0:53:27" },
+  {
+    "rank": "173",
+    "name": "satyabrat369",
+    "score": "18",
+    "finishTime": "0:53:31"
+  },
+  {
+    "rank": "174",
+    "name": "huanglanzhiguan",
+    "score": "18",
+    "finishTime": "0:53:31"
+  },
+  {
+    "rank": "175",
+    "name": "KinghtH0407",
+    "score": "18",
+    "finishTime": "0:53:40"
+  },
+  {
+    "rank": "176",
+    "name": "juan-juan-juan-i",
+    "score": "18",
+    "finishTime": "0:53:59"
+  },
+  {
+    "rank": "177",
+    "name": "zzczzc004",
+    "score": "18",
+    "finishTime": "0:54:00"
+  },
+  { "rank": "178", "name": "lddlinan", "score": "18", "finishTime": "0:54:11" },
+  { "rank": "179", "name": "ShenTM", "score": "18", "finishTime": "0:54:19" },
+  { "rank": "180", "name": "fireee", "score": "18", "finishTime": "0:54:25" },
+  {
+    "rank": "181",
+    "name": "lkm_leetcode",
+    "score": "18",
+    "finishTime": "0:54:25"
+  },
+  {
+    "rank": "182",
+    "name": "fxfxxxfxx",
+    "score": "18",
+    "finishTime": "0:54:47"
+  },
+  { "rank": "183", "name": "ksit", "score": "18", "finishTime": "0:54:49" },
+  { "rank": "184", "name": "osr", "score": "18", "finishTime": "0:55:08" },
+  {
+    "rank": "185",
+    "name": "einstein-b",
+    "score": "18",
+    "finishTime": "0:55:08"
+  },
+  {
+    "rank": "186",
+    "name": "lurenhaocu",
+    "score": "18",
+    "finishTime": "0:55:11"
+  },
+  { "rank": "187", "name": "ZeRoLJ42", "score": "18", "finishTime": "0:55:31" },
+  {
+    "rank": "188",
+    "name": "SirTechnical",
+    "score": "18",
+    "finishTime": "0:55:36"
+  },
+  {
+    "rank": "189",
+    "name": "Point_BERT",
+    "score": "18",
+    "finishTime": "0:55:36"
+  },
+  { "rank": "190", "name": "constroy", "score": "18", "finishTime": "0:55:38" },
+  { "rank": "191", "name": "jasxu", "score": "18", "finishTime": "0:55:40" },
+  {
+    "rank": "192",
+    "name": "ydhanlobhe1930",
+    "score": "18",
+    "finishTime": "0:55:48"
+  },
+  { "rank": "193", "name": "dryice", "score": "18", "finishTime": "0:56:02" },
+  { "rank": "194", "name": "ding-4e", "score": "18", "finishTime": "0:56:11" },
+  { "rank": "195", "name": "seedjyh", "score": "18", "finishTime": "0:56:15" },
+  {
+    "rank": "196",
+    "name": "qqwqert007",
+    "score": "18",
+    "finishTime": "0:56:59"
+  },
+  {
+    "rank": "197",
+    "name": "HanaYukii",
+    "score": "18",
+    "finishTime": "0:57:08"
+  },
+  { "rank": "198", "name": "sempr", "score": "18", "finishTime": "0:57:14" },
+  { "rank": "199", "name": "everule", "score": "18", "finishTime": "0:57:16" },
+  {
+    "rank": "200",
+    "name": "CE_RE_WAyitiaolong",
+    "score": "18",
+    "finishTime": "0:57:16"
+  },
+  {
+    "rank": "201",
+    "name": "ccoolguang",
+    "score": "18",
+    "finishTime": "0:57:19"
+  },
+  { "rank": "202", "name": "737", "score": "18", "finishTime": "0:57:29" },
+  {
+    "rank": "203",
+    "name": "FreeYourMind",
+    "score": "18",
+    "finishTime": "0:57:33"
+  },
+  {
+    "rank": "204",
+    "name": "Hexadecimal",
+    "score": "18",
+    "finishTime": "0:57:36"
+  },
+  {
+    "rank": "205",
+    "name": "chuan-chih",
+    "score": "18",
+    "finishTime": "0:57:38"
+  },
+  {
+    "rank": "206",
+    "name": "justdoit2",
+    "score": "18",
+    "finishTime": "0:57:41"
+  },
+  { "rank": "207", "name": "yangxm", "score": "18", "finishTime": "0:57:45" },
+  {
+    "rank": "208",
+    "name": "JiuCherish",
+    "score": "18",
+    "finishTime": "0:57:47"
+  },
+  { "rank": "209", "name": "xor0", "score": "18", "finishTime": "0:57:54" },
+  {
+    "rank": "210",
+    "name": "tonyli0000",
+    "score": "18",
+    "finishTime": "0:58:16"
+  },
+  {
+    "rank": "211",
+    "name": "stormsunshine",
+    "score": "18",
+    "finishTime": "0:58:16"
+  },
+  {
+    "rank": "212",
+    "name": "shreyasbalakrishna19",
+    "score": "18",
+    "finishTime": "0:58:37"
+  },
+  {
+    "rank": "213",
+    "name": "carl-peng-23",
+    "score": "18",
+    "finishTime": "0:58:52"
+  },
+  { "rank": "214", "name": "Axurez", "score": "18", "finishTime": "0:58:54" },
+  { "rank": "215", "name": "cpchenpi", "score": "18", "finishTime": "0:59:03" },
+  {
+    "rank": "216",
+    "name": "virendra115",
+    "score": "18",
+    "finishTime": "0:59:06"
+  },
+  { "rank": "217", "name": "Glukua", "score": "18", "finishTime": "0:59:12" },
+  { "rank": "218", "name": "JiaLiLue", "score": "18", "finishTime": "0:59:20" },
+  {
+    "rank": "219",
+    "name": "lhh1991117",
+    "score": "18",
+    "finishTime": "0:59:25"
+  },
+  { "rank": "220", "name": "mkawa222", "score": "18", "finishTime": "0:59:26" },
+  {
+    "rank": "221",
+    "name": "hopeful-volhardveo",
+    "score": "18",
+    "finishTime": "0:59:26"
+  },
+  {
+    "rank": "222",
+    "name": "goodstudyqaq",
+    "score": "18",
+    "finishTime": "0:59:26"
+  },
+  {
+    "rank": "223",
+    "name": "tommyjiang",
+    "score": "18",
+    "finishTime": "0:59:40"
+  },
+  { "rank": "224", "name": "xmty777", "score": "18", "finishTime": "0:59:59" },
+  {
+    "rank": "225",
+    "name": "yu-tian-bu-da-san-6",
+    "score": "18",
+    "finishTime": "1:00:05"
+  },
+  { "rank": "226", "name": "primeg", "score": "18", "finishTime": "1:00:11" },
+  { "rank": "227", "name": "HW87", "score": "18", "finishTime": "1:00:12" },
+  { "rank": "228", "name": "evancui", "score": "18", "finishTime": "1:00:17" },
+  { "rank": "229", "name": "hkwu6013", "score": "18", "finishTime": "1:00:18" },
+  {
+    "rank": "230",
+    "name": "mo-si-ke-xiong-mao-ren",
+    "score": "18",
+    "finishTime": "1:00:22"
+  },
+  {
+    "rank": "231",
+    "name": "dan-dan-juan-juan",
+    "score": "18",
+    "finishTime": "1:00:24"
+  },
+  { "rank": "232", "name": "LarryNY", "score": "18", "finishTime": "1:00:29" },
+  { "rank": "233", "name": "aging", "score": "18", "finishTime": "1:00:37" },
+  { "rank": "234", "name": "soysc", "score": "18", "finishTime": "1:00:45" },
+  { "rank": "235", "name": "lozy219", "score": "18", "finishTime": "1:00:46" },
+  { "rank": "236", "name": "huangxw", "score": "18", "finishTime": "1:00:52" },
+  { "rank": "237", "name": "newhar", "score": "18", "finishTime": "1:01:01" },
+  {
+    "rank": "238",
+    "name": "DidiForward",
+    "score": "18",
+    "finishTime": "1:01:03"
+  },
+  { "rank": "239", "name": "catnipan", "score": "18", "finishTime": "1:01:05" },
+  {
+    "rank": "240",
+    "name": "looking-for-jobs-in-sg",
+    "score": "18",
+    "finishTime": "1:01:08"
+  },
+  {
+    "rank": "241",
+    "name": "Mayur9agt",
+    "score": "18",
+    "finishTime": "1:01:30"
+  },
+  { "rank": "242", "name": "cocoadel", "score": "18", "finishTime": "1:01:47" },
+  { "rank": "243", "name": "levy0834", "score": "18", "finishTime": "1:01:48" },
+  { "rank": "244", "name": "xw012014", "score": "18", "finishTime": "1:01:57" },
+  { "rank": "245", "name": "fr35h1nd", "score": "18", "finishTime": "1:02:03" },
+  { "rank": "246", "name": "ch365", "score": "18", "finishTime": "1:02:07" },
+  {
+    "rank": "247",
+    "name": "jogarao_shiva",
+    "score": "18",
+    "finishTime": "1:02:11"
+  },
+  { "rank": "248", "name": "arthur_g", "score": "18", "finishTime": "1:02:19" },
+  { "rank": "249", "name": "wjiec", "score": "18", "finishTime": "1:02:21" },
+  { "rank": "250", "name": "Amarsanaa", "score": "18", "finishTime": "1:02:24" }
 ]

@@ -3,9 +3,7 @@ const fs = require("fs");
 
 // take from user through search-box
 const contest = "weekly-contest-322";
-// take username to be searched
-const username = '';
-const links = [...Array(3).keys()];
+const links = [...Array(10).keys()];
 (async () => {
   const cluster = await Cluster.launch({
     concurrency: Cluster.CONCURRENCY_PAGE,
@@ -33,7 +31,9 @@ const links = [...Array(3).keys()];
   }
 await cluster.idle();
 await cluster.close();
-
+users.sort((a, b) => {
+  return a.rank - b.rank;
+});
 // convert the users data to JSON
 const json = JSON.stringify(users);
 
