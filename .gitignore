@@ -1,3 +1,4 @@
 node_modules
 .env
 usersData.json
+package-lock.json
